@@ -1,0 +1,6 @@
+# ignore files
+*.db
+*.log
+# ignore directiry
+target/
+bin/
